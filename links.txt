@@ -1,2 +1,9 @@
+Link do vídeo de execução em ambiente de teste: 
+https://youtu.be/aroIRaB_6Fg
+
+Link da apresentação:
+https://docs.google.com/presentation/d/1WS1Ojc5m9klJKxWs4wvbnlkM6brYGIwIet2Zzotn7m0/edit#slide=id.p
+
+Referências:
 https://medium.com/crypto-currently/build-your-first-smart-contract-fc36a8ff50ca
 https://wiki.archlinux.org/index.php/IPFS
