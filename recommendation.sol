@@ -11,6 +11,7 @@ contract Recommendation {
     }
 
     function send_recommendation(string _ipfs_hash, address _recipient) public {
+        // FIXME: check who is sending the recommendation
         ipfs_hash = _ipfs_hash;
         recipient = _recipient;
     }
